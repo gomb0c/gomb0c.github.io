@@ -160,6 +160,14 @@ ul.task-list input[type="checkbox"] {
 
 // Caption
 
+.figcaption {
+  font-family: monospace;
+  font-style: italic;
+  text-align: center;
+  font-size: 0.60rem;
+  color: var(--global-theme-color);;
+}
+
 .caption {
   font-size: 0.875rem;
   margin-top: 0.75rem;
