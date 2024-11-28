@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-10-04 16:11:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I will be attending NeurIPS in-person this year. Please come say hi at my poster, or feel free to reach out if you're Canada/US-based and would like to chat! :sparkles: :blush: (Details on my poster session slot to come soon...)
