@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be attending NeurIPS in-person this year. Please come say hi at my poster, or feel free to reach out if you're Canada/US-based and would like to chat! :sparkles: :blush: (Details on my poster session slot to come soon...)
+I will be attending NeurIPS in-person this year. Please come say hi at my <a href=https://neurips.cc/virtual/2024/poster/93635>poster</a>, or feel free to reach out if you're Canada/US-based and would like to chat! :sparkles: :blush:
