@@ -4,5 +4,5 @@ title: Soft Tensor Product Representations for Fully Continuous, Compositional V
 permalink: /soft_tpr/
 ---
 
-Code is available <a href='https://github.com/gomb0c/soft_tpr'>here </a>. 
-Paper is available <a href='https://openreview.net/forum?id=oEVsxVdush'>here </a>.
+The code is available <a href='https://github.com/gomb0c/soft_tpr'>here </a>. 
+The paper is available <a href='https://openreview.net/forum?id=oEVsxVdush'>here </a>.
