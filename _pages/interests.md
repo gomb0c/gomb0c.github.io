@@ -18,7 +18,7 @@ nav_order: 2
 </div>
 </center>
 
-Keywords: <span style="color:#ffffffd1; font-family:monospace; font-size:0.75rem;"><i>computational cognitive science, hyperdimensional computing, vector symbolic algebras, tensor product representations, learning as Bayesian program induction, neural program synthesis, intrinsic curiosity, empiricism vs nativism, embodied learning</i></span>.
+Keywords: <span style="color:#ffffffd1; font-family:monospace; font-size:0.75rem;"><i>computational cognitive science, hyperdimensional computing, vector symbolic algebras, tensor product representations, learning as Bayesian program induction, program synthesis, intrinsic curiosity, empiricism vs nativism, embodied learning</i></span>.
 
 My research seeks to develop cognitively-inspired, mathematically-principled deep learning models that illuminate key aspects of human cognition. These efforts are organised around three interconnected research themes:
 
