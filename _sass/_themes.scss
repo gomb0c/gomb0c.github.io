@@ -5,16 +5,17 @@
 @use "sass:color";
 
 :root {
-  --global-bg-color: #{$white-color};
+  --global-bg-color: #03001e;
   --global-code-bg-color: #{$code-bg-color-light};
-  --global-text-color: #2e2e2e9c;
+  --global-text-color: #ffffffd1;
   --global-text-color-light: #{$grey-color};
-  --global-theme-color: #763dee;
-  --global-hover-color: #763deed9; 
+  --global-text-darker-color:#5a5a5a;
+  --global-theme-color: #ab83ff;
+  --global-hover-color: #c9b1fb; 
   --global-hover-text-color: #{$white-color};
   --global-footer-bg-color: #763dee12;
-  --global-footer-text-color: #b7b7b7ab;
-  --global-footer-link-color: #a0919140;
+  --global-footer-text-color: #ffffff7d;
+  --global-footer-link-color: #ffffff7d;
   --global-distill-app-color: #{$grey-color};
   --global-divider-color: rgba(0, 0, 0, 0.1);
   --global-card-bg-color: #{$white-color};
