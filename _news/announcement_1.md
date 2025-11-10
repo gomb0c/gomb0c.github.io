@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-08-28 15:59:00-0400
+date: 2025-08-01 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-I am on leave until the start of 2025.
+I have started as a visiting graduate student at Berkeley! Thank you to Redwood Institute for Theoretical Neuroscience and Colala for hosting me!
